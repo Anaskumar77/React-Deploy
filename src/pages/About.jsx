@@ -1,0 +1,10 @@
+function About() {
+  return (
+    <div>
+      <h2>About Page</h2>
+      <p>This is a simple Vite + React Todo App with Routing.</p>
+    </div>
+  );
+}
+
+export default About;
